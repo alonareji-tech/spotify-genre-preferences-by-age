@@ -1,12 +1,7 @@
 # Music Genre Preferences Across Age Groups
 ## Overview
 This project explores how music genre preferences vary across different age groups using survey data. It examines listening habits, favourite genres, and music consumption patterns to identify differences between age groups.
-Age Groups:
-Non-Adults: 12–17
-Young: 18–40
-Mid-Age: 41–54
-Senior: 55–60
-Elderly: 61–89
+Age Groups:Non-Adults: 12–17,Young: 18–40,Mid-Age: 41–54,Senior: 55–60,Elderly: 61–89
 
 ## Research Question
 How do music genre preferences differ across age groups?
