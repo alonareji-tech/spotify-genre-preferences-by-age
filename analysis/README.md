@@ -1,0 +1,1 @@
+The analysis examines how favourite music genres differ across age groups, identifies the most popular genre within each group, and compares streaming platform preferences, daily listening hours, and music listening habits while working.
