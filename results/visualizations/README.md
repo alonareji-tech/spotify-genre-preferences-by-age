@@ -1,0 +1,1 @@
+This folder contains charts and graphs illustrating music genre preferences, streaming platform usage, and listening habits across five age groups. These visualizations help identify patterns and compare music preferences between age groups.
